@@ -1,0 +1,5 @@
+Once upon a time, a <character> named <name> lived in a <place>. One day, <name> packed <possessive_pronoun> bag and set off.
+
+While <pronoun> traveled, <name> met a <animal>. They became friends and faced <number> challenges.
+
+After <number> days, they reached <destination>. They celebrated their journey and lived happily ever after.
